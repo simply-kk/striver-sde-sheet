@@ -1,2 +1,2 @@
 # striver-sde-sheet
-I am maintainig Strivers A2Z DSA Course/Sheet.
+I am maintaining Strivers A2Z DSA Course/Sheet.
