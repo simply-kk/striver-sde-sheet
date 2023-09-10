@@ -1,0 +1,1 @@
+{"name":"Local: palindrome","url":"k:\\striver-Sde-sheet\\binary Search\\palindrome.cpp","tests":[{"id":1693667081889,"input":"12121\n","output":"12121\nYES"},{"id":1693667094562,"input":"160\n","output":"61\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"k:\\striver-Sde-sheet\\binary Search\\palindrome.cpp","group":"local","local":true}
